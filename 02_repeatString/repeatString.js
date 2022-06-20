@@ -9,7 +9,5 @@ const repeatString = (str, num) => {
     return answer
 };
 
-console.log(repeatString("hey", 3));
-
 // Do not edit below this line
 module.exports = repeatString;

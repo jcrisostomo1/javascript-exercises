@@ -6,7 +6,7 @@ const repeatString = (str, num) => {
     for(let i = 0; i < num; i++) {
         answer = answer.concat(str);
     }
-    return answer
+    return answer;
 };
 
 // Do not edit below this line

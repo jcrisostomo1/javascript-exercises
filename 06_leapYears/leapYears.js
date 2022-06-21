@@ -6,7 +6,5 @@ const leapYears = function(year) {
     }
 };
 
-console.log(leapYears(1997))
-
 // Do not edit below this line
 module.exports = leapYears;
